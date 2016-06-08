@@ -1,8 +1,10 @@
 #include<stdio.h>
 #include"libro.h"
-#include "string.h"
+#include <string.h>
+#include <iostream>
+using namespace std;
 
 int main(void) {
-    println(getString());
+    cout << getString();
     return 0;
 }
