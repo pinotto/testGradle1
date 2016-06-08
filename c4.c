@@ -1,8 +1,9 @@
 #include<stdio.h>
+#include"libro.h"
 
 int main(void) {
-    printf("Jenkins fa la build alla commit e fa il report del terminale di gradle!\n");
-    return 0;   
+    printf(stringaDaLibro);
+    return 0;
 }
 //dasdas
 //8tg86
