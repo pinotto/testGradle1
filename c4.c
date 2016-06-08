@@ -1,9 +1,9 @@
 #include<stdio.h>
 #include"libro.h"
-#include <iostream>
-using namespace std;
+//#include "iostream.h"
+//using namespace std;
 
 int main(void) {
-    cout << getInt();
+    printf ( "%s \n", getString() );
     return 0;
 }
