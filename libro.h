@@ -1,2 +1,4 @@
 // libro.h
-extern volatile string stringaDaLibro = "Funziona!!";
+
+// ritorna stringa da stampare
+string getString(){}
