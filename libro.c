@@ -1,4 +1,4 @@
-#include "lib.h"
+#include "libro.h"
 #include "string.h"
 
 using namespace std;
