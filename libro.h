@@ -3,4 +3,4 @@
 
 
 // ritorna stringa da stampare
-std::string getString(){}
+std::string getString();
